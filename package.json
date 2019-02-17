@@ -2,7 +2,7 @@
   "name": "my-project",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "mxd <mxd_358683106@163.com>",
+  "author": "mingxindong",
   "license": "MIT",
   "private": false,
   "main": "dist/sumFunction.js",
