@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import sumFunction from "../src/myPlugin/sumFuntion/sum-function"; // 引入
+import sumFunction from "../src/myPlugin/sumFunction/sum-function"; // 引入
 export default {
   name: "app",
   data() {
