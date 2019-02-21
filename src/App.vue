@@ -3,7 +3,7 @@
     <h2>calculate</h2>
     <sum-function :num1="num1"
                   :num2="num2"
-                  :getSumFromChild="receiveChildSum"></sum-function>
+                  @getSumFromChild="receiveChildSum"></sum-function>
 
     <p>从子组件获取到的值：{{sumFromChild}}</p>
   </div>
